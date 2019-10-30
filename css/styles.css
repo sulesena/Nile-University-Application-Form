@@ -1,0 +1,20 @@
+body{
+	background:url(image.jpg);
+	background-size:contain;
+	background-size:%60 %60; 
+	
+}
+
+.form-container{
+	background-color: #fff;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px 0px #000;
+
+}
+h6{
+	font-family:candara;
+	border-width: 2px;
+}
